@@ -1,0 +1,1 @@
+This is the Project of Music Player in FrontEnd Development. In this Project I created a Music Player. In this Music Player you can play the song from the list of songs, you can pause the song and also you can stop the song which is currently playing.
